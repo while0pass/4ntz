@@ -1,5 +1,5 @@
-Программы и сервисы
-===================
+Programs and Services
+=====================
 * (FontForge) [http://fontforge.github.io/]
 * (FontMatrix) [http://fontmatrix.be/]
 * (FontSquirrel WebFont Generator)
@@ -12,8 +12,8 @@
 * (Google Fonts) [http://www.google.com/fonts/]
 * (Adobe Edge Web Fonts) [https://edgewebfonts.adobe.com/]
 
-Технологии и стандарты
-======================
+Technologies and Standards
+==========================
 * (SIL Graphite) [graphite.sil.org]
 * (OpenType) [http://www.adobe.com/devnet/opentype.html]
 * (AAT) [https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6AATIntro.html]
@@ -21,8 +21,8 @@
 * (WOFF) [http://www.w3.org/TR/WOFF/]
 * (OFL) [http://scripts.sil.org/OFL]
 
-Шрифты
-======
+Fonts
+=====
 * Old Standard
 * (Brill) [http://www.brill.com/about/brill-fonts]
 * (Avdira) [http://users.teilar.gr/~g1951d/]
@@ -43,6 +43,7 @@
 * (Фантазёр) [http://mishapanfilov.ru/font_fantazyor.html]
 * (Тень) [http://mishapanfilov.ru/font_shadow.html]
 * (Берёзки) [http://mishapanfilov.ru/font_beryozki.html]
+* Победа [http://mishapanfilov.ru/fonts/pobeda/font_pobeda.html]
 
 * (Ирмологий и проч.) [http://irmologion.ru/fonts.html]
 * (Царевич) [http://mishapanfilov.ru/fonts/tsarevich/tsarevich.html]
@@ -50,8 +51,8 @@
 * Tipik Studenica
 * Вернигора
 
-Ещё
-===
+Etc.
+====
 * (Google Font Directory source files)
   [https://code.google.com/p/googlefontdirectory/]
 * (Unicode Fonts for Ancient Scripts) [http://users.teilar.gr/~g1951d/]
