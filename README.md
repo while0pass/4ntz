@@ -1,12 +1,18 @@
 Programs and Services
 =====================
-* [FontForge] (http://fontforge.github.io/)
-* [FontMatrix] (http://fontmatrix.be/)
+* [FontForge] (https://github.com/fontforge/fontforge)
+* [Metapolator] (https://github.com/metapolator/metapolator)
+* [Prototypo] (https://github.com/byte-foundry/prototypo)
+* [FontMatrix] (https://github.com/fontmatrix/fontmatrix)
 * [FontSquirrel WebFont Generator]
   (http://www.fontsquirrel.com/tools/webfont-generator)
 * [EOTFast] (http://eotfast.com/)
 * [TypeCast] (http://typecast.com/)
 * [OTF2GDL conversion script] (http://www.numbertext.org/linux/)
+* [woff2] (https://github.com/google/woff2)
+* [xgridfit] (http://xgridfit.sourceforge.net/)
+* [TTX/FontTools] (https://github.com/behdad/fonttools)
+* [FontCrunch] (https://github.com/googlefonts/fontcrunch)
 
 * [Open Font Library] (http://openfontlibrary.org/)
 * [Google Fonts] (http://www.google.com/fonts/)
@@ -26,7 +32,9 @@ Fonts
 =====
 * Old Standard
 * [Brill] (http://www.brill.com/about/brill-fonts)
-* [Avdira] (http://users.teilar.gr/~g1951d/)
+* [Lora] (https://github.com/cyrealtype/Lora)
+* [EB Garamond] (http://www.georgduffner.at/ebgaramond/)
+* [Heuristica] (http://www.fontsquirrel.com/fonts/heuristica)
 * [Fira Sans]
   (https://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/)
 * [Linux Libertine] (http://www.linuxlibertine.org/)
@@ -34,7 +42,7 @@ Fonts
 * PT Serif, PT Sans, PT Mono
 * Source Serif Pro, Source Sans Pro, Source Code Pro
 * [DejaVu] (http://dejavu-fonts.org/)
-* [EB Garamond] (http://www.georgduffner.at/ebgaramond/)
+* [Bitter ht] (http://www.huertatipografica.com/en/fonts/bitter-ht)
 
 * Котигорошко
 * Велес
@@ -68,4 +76,3 @@ Etc.
   [on SourceForge] (http://sourceforge.net/adobe/wiki/Projects/)
   and [on GitHub] (https://github.com/adobe-fonts)
 * http://luc.devroye.org/fonts.html
-
