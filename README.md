@@ -77,3 +77,5 @@ Etc.
   [on SourceForge] (http://sourceforge.net/adobe/wiki/Projects/)
   and [on GitHub] (https://github.com/adobe-fonts)
 * http://luc.devroye.org/fonts.html
+* plumin.js
+* opentype.js
