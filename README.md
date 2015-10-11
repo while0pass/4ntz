@@ -61,6 +61,12 @@ Fonts
 * Tipik Studenica
 * Вернигора
 
+Programming
+===========
+* [plumin.js] (https://github.com/byte-foundry/plumin.js)
+* [opentype.js] (https://github.com/nodebox/opentype.js)
+* [sfntly] (https://github.com/googlei18n/sfntly)
+
 Etc.
 ====
 * [Google Font Directory source files]
@@ -77,5 +83,3 @@ Etc.
   [on SourceForge] (http://sourceforge.net/adobe/wiki/Projects/)
   and [on GitHub] (https://github.com/adobe-fonts)
 * http://luc.devroye.org/fonts.html
-* plumin.js
-* opentype.js
