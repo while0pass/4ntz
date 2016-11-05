@@ -41,7 +41,12 @@ Fonts
 * [Linux Libertine] (http://www.linuxlibertine.org/)
 * [Linux Biolinum] (http://www.linuxlibertine.org/)
 * [PT Serif, PT Sans, PT Mono] (http://www.paratype.com/public/)
-* Source Serif Pro, Source Sans Pro, Source Code Pro
+* [Source Serif Pro](https://github.com/adobe-fonts/source-serif-pro),
+  [Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro),
+  [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+* [Noto](https://www.google.com/get/noto/),
+  [*](https://github.com/googlei18n/noto-fonts),
+  [**](https://github.com/googlei18n/noto-source)
 * [DejaVu] (http://dejavu-fonts.org/)
 * [Bitter ht] (http://www.huertatipografica.com/en/fonts/bitter-ht)
 
@@ -83,3 +88,5 @@ Etc.
   [on SourceForge] (http://sourceforge.net/adobe/wiki/Projects/)
   and [on GitHub] (https://github.com/adobe-fonts)
 * http://luc.devroye.org/fonts.html
+* https://github.com/adobe-fonts
+* https://github.com/googlei18n
