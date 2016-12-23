@@ -49,6 +49,7 @@ Fonts
   [**](https://github.com/googlei18n/noto-source)
 * [DejaVu] (http://dejavu-fonts.org/)
 * [Bitter ht] (http://www.huertatipografica.com/en/fonts/bitter-ht)
+* [XO Fonts] (https://fonts.myoffice.ru/)
 
 * Котигорошко
 * Велес
