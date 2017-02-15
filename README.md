@@ -60,6 +60,7 @@ Fonts
 * [Тень] (http://mishapanfilov.ru/font_shadow.html)
 * [Берёзки] (http://mishapanfilov.ru/font_beryozki.html)
 * [Победа] (http://mishapanfilov.ru/fonts/pobeda/font_pobeda.html)
+* [Крабулер] (http://russianfonts.ru/fonts/krabuler/krabuler-typeface.html)
 
 * [Ирмологий и проч.] (http://irmologion.ru/fonts.html)
 * [Царевич] (http://mishapanfilov.ru/fonts/tsarevich/tsarevich.html)
