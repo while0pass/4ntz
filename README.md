@@ -38,6 +38,8 @@ Fonts
 * [Lato] (http://www.latofonts.com/)
 * [Fira Sans]
   (https://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/)
+* [Oswald] (https://www.fontsquirrel.com/fonts/oswald),
+  [*] (https://github.com/vernnobile/OswaldFont)
 * [Linux Libertine] (http://www.linuxlibertine.org/)
 * [Linux Biolinum] (http://www.linuxlibertine.org/)
 * [PT Serif, PT Sans, PT Mono] (http://www.paratype.com/public/)
