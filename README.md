@@ -4,6 +4,7 @@ Programs and Services
 * [Metapolator] (https://github.com/metapolator/metapolator)
 * [Prototypo] (https://github.com/byte-foundry/prototypo)
 * [FontMatrix] (https://github.com/fontmatrix/fontmatrix)
+* [TruFont] (https://github.com/trufont/trufont)
 * [FontSquirrel WebFont Generator]
   (http://www.fontsquirrel.com/tools/webfont-generator)
 * [EOTFast] (http://eotfast.com/)
@@ -43,9 +44,9 @@ Fonts
 * [Linux Libertine] (http://www.linuxlibertine.org/)
 * [Linux Biolinum] (http://www.linuxlibertine.org/)
 * [PT Serif, PT Sans, PT Mono] (http://www.paratype.com/public/)
-* [Source Serif Pro](https://github.com/adobe-fonts/source-serif-pro),
-  [Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro),
-  [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+* [Source Serif Pro] (https://github.com/adobe-fonts/source-serif-pro),
+  [Source Sans Pro] (https://github.com/adobe-fonts/source-sans-pro),
+  [Source Code Pro] (https://github.com/adobe-fonts/source-code-pro)
 * [Noto](https://www.google.com/get/noto/),
   [*](https://github.com/googlei18n/noto-fonts),
   [**](https://github.com/googlei18n/noto-source)
@@ -69,6 +70,19 @@ Fonts
 * Якутович
 * Tipik Studenica
 * Вернигора
+
+Coding Typefaces
+================
+* [Pragmata Pro] (https://www.fsd.it/shop/fonts/pragmatapro/)
+* [Fira Code] (https://github.com/tonsky/FiraCode)
+* [PT Mono] (http://www.paratype.com/public/)
+* [Source Code Pro] (https://github.com/adobe-fonts/source-code-pro)
+* [Input] (http://input.fontbureau.com/)
+* [M+] (https://www.fontsquirrel.com/fonts/M-1m)
+* [Fantasque Sans Mono] (https://fontlibrary.org/en/font/fantasque-sans-mono)
+  [*] (https://github.com/belluzj/fantasque-sans)
+* [Iosevka] (https://github.com/be5invis/Iosevka)
+* [Hack] (https://github.com/source-foundry/Hack)
 
 Programming
 ===========
