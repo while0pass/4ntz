@@ -33,7 +33,8 @@ Fonts
 =====
 * Old Standard
 * [Brill] (http://www.brill.com/about/brill-fonts)
-* [Lora] (https://github.com/cyrealtype/Lora)
+* [Lora] (https://github.com/cyrealtype/Lora-Cyrillic)
+* [Alice] (https://github.com/cyrealtype/Alice)
 * [EB Garamond] (http://www.georgduffner.at/ebgaramond/)
 * [Heuristica] (http://www.fontsquirrel.com/fonts/heuristica)
 * [Lato] (http://www.latofonts.com/)
