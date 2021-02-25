@@ -31,7 +31,8 @@ Technologies and Standards
 
 Fonts
 =====
-* Old Standard
+* [Old Standard] (https://web.archive.org/web/20190926123235/http://thessalonica.org.ru/en/oldstandard.html),
+  [\*] (http://git.robertalessi.net/oldstandard/about/)
 * [Brill] (http://www.brill.com/about/brill-fonts)
 * [Lora] (https://github.com/cyrealtype/Lora)
 * [EB Garamond] (http://www.georgduffner.at/ebgaramond/)
@@ -40,7 +41,7 @@ Fonts
 * [Fira Sans]
   (https://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/)
 * [Oswald] (https://www.fontsquirrel.com/fonts/oswald),
-  [*] (https://github.com/vernnobile/OswaldFont)
+  [\*] (https://github.com/vernnobile/OswaldFont)
 * [Linux Libertine] (http://www.linuxlibertine.org/)
 * [Linux Biolinum] (http://www.linuxlibertine.org/)
 * [PT Serif, PT Sans, PT Mono] (http://www.paratype.com/public/)
@@ -48,8 +49,9 @@ Fonts
   [Source Sans Pro] (https://github.com/adobe-fonts/source-sans-pro),
   [Source Code Pro] (https://github.com/adobe-fonts/source-code-pro)
 * [Noto](https://www.google.com/get/noto/),
-  [*](https://github.com/googlei18n/noto-fonts),
-  [**](https://github.com/googlei18n/noto-source)
+  [\*] (https://github.com/googlei18n/noto-fonts),
+  [\*\*] (https://github.com/googlei18n/noto-source)
+* [Plex] (https://github.com/IBM/plex)
 * [DejaVu] (http://dejavu-fonts.org/)
 * [Bitter ht] (http://www.huertatipografica.com/en/fonts/bitter-ht)
 * [XO Fonts] (https://fonts.myoffice.ru/)
@@ -80,7 +82,7 @@ Coding Typefaces
 * [Input] (http://input.fontbureau.com/)
 * [M+] (https://www.fontsquirrel.com/fonts/M-1m)
 * [Fantasque Sans Mono] (https://fontlibrary.org/en/font/fantasque-sans-mono)
-  [*] (https://github.com/belluzj/fantasque-sans)
+  [\*] (https://github.com/belluzj/fantasque-sans)
 * [Iosevka] (https://github.com/be5invis/Iosevka)
 * [Hack] (https://github.com/source-foundry/Hack)
 
