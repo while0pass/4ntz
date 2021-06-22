@@ -32,6 +32,7 @@ Fonts
 * [Old Standard](https://web.archive.org/web/20190926123235/http://thessalonica.org.ru/en/oldstandard.html),
   [\*](http://git.robertalessi.net/oldstandard/about/)
 * [Brill](http://www.brill.com/about/brill-fonts)
+* [Leksa](https://fonts.adobe.com/fonts/leksa)
 * [Lora](https://github.com/cyrealtype/Lora-Cyrillic)
 * [Alice](https://github.com/cyrealtype/Alice)
 * [EB Garamond](http://www.georgduffner.at/ebgaramond/)
